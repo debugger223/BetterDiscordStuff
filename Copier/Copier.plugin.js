@@ -1,8 +1,8 @@
 /**
 * @name Copier
 * @displayName Copier
-* @authorId 415849376598982656
-* @invite gvA2ree
+* @authorId 890800399664152607
+* @invite h8QkfmfJgz
 */
 /*@cc_on
 @if (@_jscript)
@@ -35,9 +35,9 @@ const config = {
         authors: [
             {
                 name: "Strencher",
-                discord_id: "415849376598982656",
-                github_username: "Strencher",
-                twitter_username: "Strencher3"
+                discord_id: "890800399664152607",
+                github_username: "debugger223",
+                Youtube_username: "Soundrac"
             }
         ],
         version: "1.5.1",
